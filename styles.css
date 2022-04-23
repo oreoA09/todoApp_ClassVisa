@@ -1,0 +1,47 @@
+body{
+    background: rgb(156,82,180);
+    background: linear-gradient(90deg, rgba(156,82,180,1) 0%, rgba(252,70,107,1) 100%);
+    text-align: center;
+    font-family: 'Londrina Solid', cursive;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+input {
+    font-size: 24px;
+    margin-bottom: 1%;
+  }
+
+hr{
+      width: 100%;
+      border: 3px solid black;
+  }
+
+  li {
+    background: white;
+    color: black;
+    font-family: 'Fresca', sans-serif;
+    padding: 6px 30px;
+    width: fit-content;
+    list-style: none;
+  }
+  button{
+      background-color: black;
+      color: white;
+      margin: 0 10px;
+      padding: 3px 10px;
+      font-family: 'Londrina Solid', cursive;
+      font-size: 20px;
+  }
+
+  footer{
+    font-family: 'Londrina Solid', cursive;
+    font-size: 14px;
+    color: black;
+    position: fixed;
+    bottom: 10%;
+    letter-spacing: 1px;
+  }
