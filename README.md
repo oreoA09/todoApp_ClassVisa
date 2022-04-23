@@ -18,4 +18,4 @@ This is a simple todo app created in a team during the ClassVisa training, while
 You can add more things to make it even cooler! The comments in the code will help you navigate through it. Have a nice day! :D 
 
 # todoApp_ClassVisa
-App built by Samuel, Oreo &amp; Stephen, Rasheed
+App built by Samuel, Oreo, Stephen &amp; Rasheed
